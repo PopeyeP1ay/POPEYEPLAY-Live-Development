@@ -1,61 +1,37 @@
 {
-  "updated_utc": "2026-11-26 03:25",
+  "updated_utc": "2026-11-26 03:26",
   "games": [
     {
-      "name": "Fallout: New Vegas",
-      "url": "",
-      "verified": {},
-      "status": "UNVERIFIED",
-      "note": "No verified record imported"
-    },
-    {
+      "declared_status": "COMPLETED",
       "name": "Land of the Dead",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "No verified record imported"
+      "note": "Developer-designated status; evidence not imported"
     },
     {
-      "name": "Call of Duty (2003)",
+      "declared_status": "IN PROGRESS",
+      "name": "Fallout: New Vegas",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "No verified record imported"
+      "note": "Developer-designated status; evidence not imported"
     },
     {
-      "name": "Midtown Madness",
-      "url": "",
-      "verified": {},
-      "status": "UNVERIFIED",
-      "note": "No verified record imported"
-    },
-    {
-      "name": "Call of Duty: Black Ops Declassified",
-      "url": "",
-      "verified": {},
-      "status": "UNVERIFIED",
-      "note": "No verified record imported"
-    },
-    {
-      "name": "Outlast",
-      "url": "",
-      "verified": {},
-      "status": "UNVERIFIED",
-      "note": "No verified record imported"
-    },
-    {
+      "declared_status": "IN PROGRESS",
       "name": "Dead Island: Riptide",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "No verified record imported"
+      "note": "Developer-designated status; evidence not imported"
     },
     {
-      "name": "Infected Wars",
+      "declared_status": "IN PROGRESS",
+      "name": "Outlast",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "No verified record imported"
+      "note": "Developer-designated status; evidence not imported"
     }
   ]
 }
