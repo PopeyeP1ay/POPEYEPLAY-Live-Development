@@ -1,37 +1,61 @@
 {
-  "updated_utc": "2026-11-26 03:24",
+  "updated_utc": "2026-11-26 03:25",
   "games": [
     {
-      "declared_status": "COMPLETED",
-      "name": "Land of the Dead",
-      "url": "",
-      "verified": {},
-      "status": "UNVERIFIED",
-      "note": "Developer-designated status; evidence not imported"
-    },
-    {
-      "declared_status": "IN PROGRESS",
       "name": "Fallout: New Vegas",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "Developer-designated status; evidence not imported"
+      "note": "No verified record imported"
     },
     {
-      "declared_status": "IN PROGRESS",
-      "name": "Dead Island: Riptide",
+      "name": "Land of the Dead",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "Developer-designated status; evidence not imported"
+      "note": "No verified record imported"
     },
     {
-      "declared_status": "IN PROGRESS",
+      "name": "Call of Duty (2003)",
+      "url": "",
+      "verified": {},
+      "status": "UNVERIFIED",
+      "note": "No verified record imported"
+    },
+    {
+      "name": "Midtown Madness",
+      "url": "",
+      "verified": {},
+      "status": "UNVERIFIED",
+      "note": "No verified record imported"
+    },
+    {
+      "name": "Call of Duty: Black Ops Declassified",
+      "url": "",
+      "verified": {},
+      "status": "UNVERIFIED",
+      "note": "No verified record imported"
+    },
+    {
       "name": "Outlast",
       "url": "",
       "verified": {},
       "status": "UNVERIFIED",
-      "note": "Developer-designated status; evidence not imported"
+      "note": "No verified record imported"
+    },
+    {
+      "name": "Dead Island: Riptide",
+      "url": "",
+      "verified": {},
+      "status": "UNVERIFIED",
+      "note": "No verified record imported"
+    },
+    {
+      "name": "Infected Wars",
+      "url": "",
+      "verified": {},
+      "status": "UNVERIFIED",
+      "note": "No verified record imported"
     }
   ]
 }
