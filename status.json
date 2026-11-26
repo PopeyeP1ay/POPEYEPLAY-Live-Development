@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "name": "Land of the Dead",
+      "status": "COMPLETED",
+      "note": "Completed by developer",
+      "milestones": [
+        "Analysis",
+        "ARM64 build",
+        "Device startup",
+        "Gameplay",
+        "Release validation"
+      ],
+      "evidence_records": []
+    },
+    {
+      "name": "Fallout: New Vegas",
+      "status": "PLAYABLE",
+      "note": "Native gameplay; optimization ongoing",
+      "milestones": [
+        "Analysis",
+        "ARM64 build",
+        "Device startup",
+        "Gameplay"
+      ],
+      "evidence_records": []
+    },
+    {
+      "name": "Dead Island: Riptide",
+      "status": "IN DEVELOPMENT",
+      "note": "Native build and linking reported",
+      "milestones": [
+        "Analysis",
+        "ARM64 build"
+      ],
+      "evidence_records": []
+    },
+    {
+      "name": "Outlast",
+      "status": "IN DEVELOPMENT",
+      "note": "ARM64 build and device startup tests reported; engine initialization ongoing",
+      "milestones": [
+        "Analysis",
+        "ARM64 build",
+        "Device startup"
+      ],
+      "evidence_records": []
+    }
+  ]
+}
